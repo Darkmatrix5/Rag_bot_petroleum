@@ -1,7 +1,8 @@
+streamlit
 langchain
 langchain-openai
 faiss-cpu
 pypdf
-streamlit
+sentence-transformers
+openai
 tiktoken
-python-dotenv
