@@ -6,3 +6,6 @@ pypdf
 sentence-transformers
 openai
 tiktoken
+numpy
+pymupdf
+google-generativeai
